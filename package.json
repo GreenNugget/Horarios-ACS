@@ -233,6 +233,7 @@
         }
       ],
       "no-bitwise": "warn",
+      "max-statements-per-line": "error",
       "max-len": [
         "warn",
         {
