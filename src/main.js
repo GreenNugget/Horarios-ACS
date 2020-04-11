@@ -8,6 +8,7 @@ require('dotenv').config();
 // Libraries
 import '@fortawesome/fontawesome-free/css/all.css';
 import 'bootstrap/dist/css/bootstrap.css';
+import './assets/sass/globals.scss';
 
 // Configuration
 Vue.config.productionTip = false;
